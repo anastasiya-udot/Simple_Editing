@@ -1,0 +1,9 @@
+E:\documents\ооп\Figures\Figures\bin\Debug\Figures.exe.config
+E:\documents\ооп\Figures\Figures\bin\Debug\Figures.exe
+E:\documents\ооп\Figures\Figures\bin\Debug\Figures.pdb
+E:\documents\ооп\Figures\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+E:\documents\ооп\Figures\Figures\obj\Debug\Figures.Form1.resources
+E:\documents\ооп\Figures\Figures\obj\Debug\Figures.Properties.Resources.resources
+E:\documents\ооп\Figures\Figures\obj\Debug\Figures.csproj.GenerateResource.Cache
+E:\documents\ооп\Figures\Figures\obj\Debug\Figures.exe
+E:\documents\ооп\Figures\Figures\obj\Debug\Figures.pdb
